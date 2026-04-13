@@ -30,5 +30,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bwhdgus0429"/><br/>
   <img src="https://raw.githubusercontent.com/jonghyun0429p/github-stats-transparent/output/generated/overview.svg"/>
   <img src="https://raw.githubusercontent.com/jonghyun0429p/github-stats-transparent/output/generated/languages.svg"/><br/>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jonghyun0429p)](https://github.com/jonghyun0429p/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jonghyun0429p)](https://velog.io/@jonghyun0429p)
 </div>
