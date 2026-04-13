@@ -3,7 +3,8 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+          <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
@@ -14,7 +15,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring_Boot&logoColor=white">
           </div>
     </div>
     <div align= "center">
@@ -29,5 +30,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bwhdgus0429"/><br/>
   <img src="https://raw.githubusercontent.com/jonghyun0429p/github-stats-transparent/output/generated/overview.svg"/>
   <img src="https://raw.githubusercontent.com/jonghyun0429p/github-stats-transparent/output/generated/languages.svg"/><br/>
-  <img src="https://velog-readme-stats.vercel.app/api?name=jonghyun0429p"/>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jonghyun0429p)](https://github.com/jonghyun0429p/velog-readme-stats)
 </div>
