@@ -25,11 +25,15 @@
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Tech | Key Highlights |
-| :--- | :--- | :--- |
+| :---: | :---: | :--- |
 | **🚀 싸다구**<br/><sub>에스크로 중고거래 플랫폼</sub> | `Spring Boot`<br/>`WebSocket`<br/>`ELK Stack` | • **1원 계좌인증 & 가상 예치금 에스크로 결제**<br/>• **방치 매물 자동 회수 스케줄러** & ELK 로그 관제 |
 | **💊 약속**<br/><sub>AI 영양제 분석 & 복약 관리</sub> | `Spring Boot`<br/>`CompletableFuture`<br/>`ShedLock` | • **비동기 병렬 파이프라인** (응답 속도 `4.8s ➔ 1.5s`)<br/>• **SSE + FCM 하이브리드 알림** & ShedLock 분산 락 |
 | **📊 다훑어**<br/><sub>도소매 유통 시세 분석</sub> | `Redis`<br/>`Spring Batch`<br/>`QueryDSL` | • **Redis ZSET 인메모리 랭킹 캐싱** (조회 속도 `1.2s ➔ 0.3s`)<br/>• **룰렛휠·에이징 추천 알고리즘** (신뢰도 `40% ➔ 80%`) |
+
+</div>
 
 ---
 
